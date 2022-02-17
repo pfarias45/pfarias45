@@ -1,3 +1,5 @@
+![alt text](https://github.com/pfarias45/pfarias45/blob/main/header.png)
+
 - 🔭 MS Sofware Dev student
 - 🤔 Learning object-oriented programming, data structures, and algorithms
 - 👯 Looking for internship opportunities for Summer 2022 or Fall 2022
