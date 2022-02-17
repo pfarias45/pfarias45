@@ -1,7 +1,7 @@
 - 🔭 MS Sofware Dev student
-- 🤔 Learning object-oriented programming and data structures
+- 🤔 Learning object-oriented programming, data structures, and algorithms
 - 👯 Looking for internship opportunities for Summer 2022 or Fall 2022
-- 🌱 Coding Java, Python, JavaScript, HTML5, and CSS
+- 🌱 Coding in Java, Python, JavaScript, TypeScript, HTML5, and CSS
 - 👁️ Using VS Code, Eclipse, JavaFX, Angular, Bootstrapt, and Firebase 
 - 💬 Open to collaboration and networking
 - 😄 She/her/herself
