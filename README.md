@@ -1,5 +1,3 @@
-![alt text](https://github.com/pfarias45/pfarias45/blob/main/header.png)
-
 - 🔭 MS Sofware Dev student
 - 🤔 Learning object-oriented programming, data structures, and algorithms
 - 👯 Looking for opportunities in software analysis, integration, and development
